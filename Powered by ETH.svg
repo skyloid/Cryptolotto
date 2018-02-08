@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="30px" viewBox="0 0 100 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Powered by ETH</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-&amp;-Promo-Materials" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Powered-by-ETH">
+            <rect id="Rectangle-2-Copy-2" fill="#1E1E20" x="0" y="0" width="100" height="30" rx="4"></rect>
+            <g id="Group-3" transform="translate(13.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M0,11.1076923 L5.54166667,14.4901099 L5.54166667,19 L0,11.1076923 Z M11.0833333,11.1076923 L5.54166667,19 L5.54166667,14.4901099 L11.0833333,11.1076923 Z M5.54166667,13.4461538 L0,9.93846154 L11.0833333,9.93846154 L5.54166667,13.4461538 Z M5.54166667,0 L11.0833333,9.93846154 L0,9.93846154 L5.54166667,0 Z" id="Shape"></path>
+            </g>
+            <text id="powered-by-ethereum" font-family="Roboto-Light, Roboto" font-size="8" font-weight="300" line-spacing="8" letter-spacing="1.5" fill="#FFFFFF">
+                <tspan x="32" y="14">powered by</tspan>
+                <tspan x="32" y="22">ethereu</tspan>
+                <tspan x="69.0742188" y="22">m</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
