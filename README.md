@@ -1,6 +1,6 @@
 # Cryptolotto - Ethereum powered blockchain lottery
 
-[![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/Powered%20by%20ETH.png?raw=true)](https://www.ethereum.org/nsolid) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/Made%20by%20Erde.png?raw=true)](https://t.me/erdegroup/nsolid) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/Play%20Cryptolotto.png?raw=true)](https://cryptolotto.cc/nsolid)
+[![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/Powered%20by%20ETH.png?raw=true)](https://www.ethereum.org) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/Made%20by%20Erde.png?raw=true)](https://t.me/erdegroup) [![N|Solid](https://github.com/cryptolotto/Cryptolotto/blob/master/Play%20Cryptolotto.png?raw=true)](https://cryptolotto.cc)
 
 Cryptolotto is a blockchain-based, Ethereum powered lottery, which gives to users the most transparent and honest chances of winning.
 
