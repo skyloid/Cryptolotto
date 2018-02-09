@@ -50,6 +50,7 @@ Please watch this explainer video on [YouTube](https://youtu.be/ma2KYqmsdhQ). We
   - **Get results**. Recieve instant notifications on your phone by joining our [Telegram](https://www.t.me/cryptolottoresults). Get useful information about a name of a game, jackpot amount in ETH and USD, timestamp, winner's wallet address and TX hash.
   - **Works worldwide**. Everyone it the world can play the Cryptolotto. There are no borders, limitations or special terms. To start playing, it’s enough to have an Internet access, an Ethereum wallet and ethers. Cryptolotto is not limited to only one country, doesn’t require a special citizenship and is free of any bureaucracy.
   - **Play all games**. In Cryptolotto you can participate in one game unlimited amount of times. Also, you can play in all games simultaneously. It increases chances to win, but remember this not guarantees a win because a winner is always picked randomly. 
+  - **MetaMask supported**. Play the game in one click by using [MetaMask](https://metamask.io) wallet. Having Chrome or Firefox browser and MetaMask makes the process of playing in Cryptolotto even more simple and user friendly. No need to copy&paste addresses and entering prices, just click one button and you will joing the game right away! 
 
 # The algorithm of picking a winner
 
