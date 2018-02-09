@@ -16,7 +16,7 @@ Cryptolotto is a blockchain-based, Ethereum powered lottery, which gives to user
 8. [Contact Support](#contact-support)
 
 # Overview
-Cryptolotto is a powered by Ethereum DAap (decentralized application). The backend code is running on a decentralized peer-to-peer network and is presented by 12 smart contracts and a front-end. Cryptolotto works autonomously and with no entity controlling the key functions. The Cryptolotto's data and records of operation are cryptographically stored in a public, decentralized Ethereum blockchain network.
+Cryptolotto is a powered by Ethereum DApp (decentralized application). The backend code is running on a decentralized peer-to-peer network and is presented by 12 smart contracts and a front-end. Cryptolotto works autonomously and with no entity controlling the key functions. The Cryptolotto's data and records of operation are cryptographically stored in a public, decentralized Ethereum blockchain network.
 
 The main idea of Cryptolotto is straightforward: people from all over the world contribute equal amounts of ETH to one wallet during the set period of time. When a timer ends, this smart-contract powered wallet automatically sends all received ETH to one randomly chosen wallet-participant.
 
