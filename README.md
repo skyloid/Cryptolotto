@@ -51,6 +51,7 @@ Please watch this explainer video on [YouTube](https://youtu.be/ma2KYqmsdhQ). We
   - **Works worldwide**. Everyone it the world can play the Cryptolotto. There are no borders, limitations or special terms. To start playing, it’s enough to have an Internet access, an Ethereum wallet and ethers. Cryptolotto is not limited to only one country, doesn’t require a special citizenship and is free of any bureaucracy.
   - **Play all games**. In Cryptolotto you can participate in one game unlimited amount of times. Also, you can play in all games simultaneously. It increases chances to win, but remember this not guarantees a win because a winner is always picked randomly. 
   - **MetaMask supported**. Play the game in one click by using [MetaMask](https://metamask.io) wallet. Having Chrome or Firefox browser and MetaMask makes the process of playing in Cryptolotto even more simple and user friendly. No need to copy&paste addresses and entering prices, just click one button and you will joing the game right away! 
+  - **Mobile devices supported**. Cryptolotto supports Cipher Browser which gives ability to use DAaps on mobile phones. Download [iOS](https://itunes.apple.com/app/cipher-browser-for-ethereum/id1294572970?ls=1&mt=8) or [Android](https://play.google.com/store/apps/details?id=com.cipherbrowser.cipher) version of Cipher and play Cryptolotto on the go!   
 
 # The algorithm of picking a winner
 
