@@ -25,12 +25,12 @@ The main idea of Cryptolotto is straightforward: people from all over the world 
 # List of Games
 | Name | Duration | Price |Contract Address |
 | ------ | ------ | ------ | ------ |
-| [Short 10m](https://www.cryptolotto.cc/en/short/10m) | 10 minutes | 0.01 ETH |[0x82c453724bc9d746e61b164085f60752c595411b](https://etherscan.io/address/0x82c453724bc9d746e61b164085f60752c595411b)|
-| [Short 1h](https://www.cryptolotto.cc/en/short/1h) | 1 hour | 0.02 ETH |[0xef38893768960f9d7f9b20cc2cf63c7f6a113136](https://etherscan.io/address/0xef38893768960f9d7f9b20cc2cf63c7f6a113136)|
-| [Short 6h](https://www.cryptolotto.cc/en/short/6h) | 6 hours | 0.05 ETH |[0x335cd59a7196b41b11a786673d95eff8355abef7](https://etherscan.io/address/0x335cd59a7196b41b11a786673d95eff8355abef7)|
 | [Long 1d](https://www.cryptolotto.cc/en/long/1d) | 1 day | 0.03 ETH |[0x554bb05483601093bf2e60a3492f4e5438e0c6a7](https://etherscan.io/address/0x554bb05483601093bf2e60a3492f4e5438e0c6a7)|
 | [Long 7d](https://www.cryptolotto.cc/en/long/7d) | 7 days | 0.02 ETH |[0x484ae89cb0b1a03c94dc78ed02999ef010c9f258](https://etherscan.io/address/0x484ae89cb0b1a03c94dc78ed02999ef010c9f258)|
 | [Long 30d](https://www.cryptolotto.cc/en/long/30d)  | 30 days | 0.03 ETH |[0x96ee07c53fdeddda0f83642808b9a707744fd449](https://etherscan.io/address/0x96ee07c53fdeddda0f83642808b9a707744fd449)|
+| [Short 10m](https://www.cryptolotto.cc/en/short/10m) | 10 minutes | 0.01 ETH |[0x82c453724bc9d746e61b164085f60752c595411b](https://etherscan.io/address/0x82c453724bc9d746e61b164085f60752c595411b)|
+| [Short 1h](https://www.cryptolotto.cc/en/short/1h) | 1 hour | 0.02 ETH |[0xef38893768960f9d7f9b20cc2cf63c7f6a113136](https://etherscan.io/address/0xef38893768960f9d7f9b20cc2cf63c7f6a113136)|
+| [Short 6h](https://www.cryptolotto.cc/en/short/6h) | 6 hours | 0.05 ETH |[0x335cd59a7196b41b11a786673d95eff8355abef7](https://etherscan.io/address/0x335cd59a7196b41b11a786673d95eff8355abef7)|
 | [Gold 1m](https://www.cryptolotto.cc/en/gold/10m)  | 10 minutes | 0.1 ETH |[0xc88a9e1c1ef77a1c9964ce9010734ad553c6f2f1](https://etherscan.io/address/0xc88a9e1c1ef77a1c9964ce9010734ad553c6f2f1)|
 | [Gold 6h](https://www.cryptolotto.cc/en/gold/6h)  | 6 hours | 0.5 ETH |[0xe77eb30c73465c322827fd7bb2e73542a2eb2c96](https://etherscan.io/address/0xe77eb30c73465c322827fd7bb2e73542a2eb2c96)|
 | [Gold 1d](https://www.cryptolotto.cc/en/gold/1d)  | 1 day | 1 ETH |[0x90296b63fc58512f388b085caad23e1c4845e11e](https://etherscan.io/address/0x90296b63fc58512f388b085caad23e1c4845e11e)|
